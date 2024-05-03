@@ -20,7 +20,7 @@ I'm a Full-Stack web developer, experienced in building applications using techn
 I love sharing knowledge and improving every day. 💻
 
 - 💡 I like to explore new technologies and develop software solutions.
-- 👯 I am open to any collaboration work and research internships.
+- 👯 I'm open to any collaboration work and research internships.
 - 🌱 I’m currently learning React and Next.js
 - 🗒 I have recently developed [My personal blog](https://nextjs-blog-xi-indol.vercel.app/)
 
