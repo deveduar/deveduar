@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 ![deveduar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deveduar&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 <picture> <img align="right" src="https://64.media.tumblr.com/d76f758ab3f8df7a46766c24e510dd8e/1b721de211210cef-27/s1280x1920/108a51dd357fcfa39f9abb37779679140a25d532.gifv" width = 360px></picture>
 -->
-[![banner](https://i.ibb.co/KNhWrpN/banner-deveduar-logo.png)](https://nextjs-blog-xi-indol.vercel.app/)
+<a href="https://nextjs-blog-xi-indol.vercel.app/" target="_blank">
+  <img src="https://i.ibb.co/KNhWrpN/banner-deveduar-logo.png" alt="banner">
+</a>
+
 
 ### Hi, I'm [@deveduar](https://nextjs-blog-xi-indol.vercel.app/) 👋
 
