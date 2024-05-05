@@ -72,8 +72,9 @@ I love sharing knowledge and improving every day. 💻
 ![Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-5C5543?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-5C5543.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-![deveduar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deveduar&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 ### 📊 Stats:
 ![deveduar's Stats](https://github-readme-stats.vercel.app/api?username=deveduar&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
 ![deveduar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=deveduar&theme=tokyonight&hide_border=true)
+<br><br>
+![deveduar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deveduar&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
