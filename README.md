@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 I'm a Full-Stack web developer, experienced in building applications using technologies like React and Next.js. Additionally, I have programming knowledge in Python, system administration, networking, and project management. 
 I love sharing knowledge and improving every day. 💻
 
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=deveduar&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
+<a href="http://www.linkedin.com/in/deveduar">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveduar&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="deveduar's Top Languages">
 </a>
 
