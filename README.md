@@ -21,10 +21,15 @@ Here are some ideas to get you started:
 I'm a Full-Stack web developer, experienced in building applications using technologies like React and Next.js. Additionally, I have programming knowledge in Python, system administration, networking, and project management. 
 I love sharing knowledge and improving every day. 💻
 
+
+
+<picture> <img align="right" src="https://64.media.tumblr.com/d76f758ab3f8df7a46766c24e510dd8e/1b721de211210cef-27/s1280x1920/108a51dd357fcfa39f9abb37779679140a25d532.gifv" width = 400px></picture>
+
 - 💡 I like to explore new technologies and develop software solutions.
 - 👯 I'm open to any collaboration work and research internships.
 - 🌱 I’m currently learning React and Next.js
 - 🗒 I have recently developed [My personal blog](https://nextjs-blog-xi-indol.vercel.app/)
+<br><br>
 
 ### 💬 Contact: 
 [![Linkedin](https://img.shields.io/badge/linkedin-%23483699.svg?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/deveduar)
