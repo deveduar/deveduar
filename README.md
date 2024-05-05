@@ -13,9 +13,10 @@ Here are some ideas to get you started:
 
 - 📫 You can contact me on [Linkedin](http://www.linkedin.com/in/deveduar) or [Twitter](https://twitter.com/deveduar)
 [![Gmail](https://img.shields.io/badge/Gmail-%23483699?style=for-the-badge&logo=gmail&logoColor=white)](deveduar@gmail.com)
+![banner](https://i.ibb.co/KNhWrpN/banner-deveduar-logo.png)
 
 -->
-![banner](https://i.ibb.co/KNhWrpN/banner-deveduar-logo.png)
+[![banner](https://i.ibb.co/KNhWrpN/banner-deveduar-logo.png)](https://nextjs-blog-xi-indol.vercel.app/)
 
 ### Hi, I'm [@deveduar](https://nextjs-blog-xi-indol.vercel.app/) 👋
 
