@@ -1,4 +1,3 @@
-### Hi, I'm [@deveduar](https://nextjs-blog-xi-indol.vercel.app/) 👋
 
 <!--
 **deveduar/deveduar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +15,8 @@ Here are some ideas to get you started:
 
 -->
 ![banner](https://i.ibb.co/KNhWrpN/banner-deveduar-logo.png)
+
+### Hi, I'm [@deveduar](https://nextjs-blog-xi-indol.vercel.app/) 👋
 
 I'm a Full-Stack web developer, experienced in building applications using technologies like React and Next.js. Additionally, I have programming knowledge in Python, system administration, networking, and project management. 
 I love sharing knowledge and improving every day. 💻
