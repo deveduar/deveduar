@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 
 - 📫 You can contact me on [Linkedin](http://www.linkedin.com/in/deveduar) or [Twitter](https://twitter.com/deveduar)
 [![Gmail](https://img.shields.io/badge/Gmail-%23483699?style=for-the-badge&logo=gmail&logoColor=white)](deveduar@gmail.com)
-![banner](https://i.ibb.co/KNhWrpN/banner-deveduar-logo.png)
+
+<picture> <img align="right" src="https://64.media.tumblr.com/d76f758ab3f8df7a46766c24e510dd8e/1b721de211210cef-27/s1280x1920/108a51dd357fcfa39f9abb37779679140a25d532.gifv" width = 360px></picture>
+![deveduar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deveduar&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 -->
 [![banner](https://i.ibb.co/KNhWrpN/banner-deveduar-logo.png)](https://nextjs-blog-xi-indol.vercel.app/)
@@ -23,9 +25,10 @@ Here are some ideas to get you started:
 I'm a Full-Stack web developer, experienced in building applications using technologies like React and Next.js. Additionally, I have programming knowledge in Python, system administration, networking, and project management. 
 I love sharing knowledge and improving every day. 💻
 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=deveduar&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveduar&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="deveduar's Top Languages">
+</a>
 
-
-<picture> <img align="right" src="https://64.media.tumblr.com/d76f758ab3f8df7a46766c24e510dd8e/1b721de211210cef-27/s1280x1920/108a51dd357fcfa39f9abb37779679140a25d532.gifv" width = 360px></picture>
 
 - 💡 I like to explore new technologies and develop software solutions.
 - 👯 I'm open to any collaboration work and research internships.
@@ -76,5 +79,4 @@ I love sharing knowledge and improving every day. 💻
 ![deveduar's Stats](https://github-readme-stats.vercel.app/api?username=deveduar&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
 ![deveduar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=deveduar&theme=tokyonight&hide_border=true)
 <br><br>
-![deveduar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deveduar&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
