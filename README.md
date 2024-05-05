@@ -12,6 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 - 📫 You can contact me on [Linkedin](http://www.linkedin.com/in/deveduar) or [Twitter](https://twitter.com/deveduar)
+[![Gmail](https://img.shields.io/badge/Gmail-%23483699?style=for-the-badge&logo=gmail&logoColor=white)](deveduar@gmail.com)
 
 -->
 ![banner](https://i.ibb.co/KNhWrpN/banner-deveduar-logo.png)
@@ -34,7 +35,6 @@ I love sharing knowledge and improving every day. 💻
 ### 💬 Contact: 
 [![Linkedin](https://img.shields.io/badge/linkedin-%23483699.svg?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/deveduar)
 [![X](https://img.shields.io/badge/X-%23483699.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/deveduar)
-[![Gmail](https://img.shields.io/badge/Gmail-%23483699?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deveduar@gmail.com)
 
 
 
