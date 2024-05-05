@@ -58,9 +58,14 @@ I love sharing knowledge and improving every day. 💻
 ![Notion](https://img.shields.io/badge/Notion-121011?style=for-the-badge&logo=notion&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-1A2C34.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-1A2C34?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Canva](https://img.shields.io/badge/Canva-5C5543.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![PS](https://img.shields.io/badge/Adobe%20Photoshop-5C5543?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=ehite)
 ![Premiere](https://img.shields.io/badge/Adobe%20Premiere%20Pro-5C5543?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-5C5543.svg?style=for-the-badge&logo=blender&logoColor=white)
 	
+### 📊 Stats:
+![deveduar's Stats](https://github-readme-stats.vercel.app/api?username=deveduar&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
+![deveduar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=deveduar&theme=tokyonight&hide_border=true)
+![deveduar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deveduar&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
