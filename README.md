@@ -72,7 +72,7 @@ I love sharing knowledge and improving every day. 💻
 ### 📊 Stats:
 ![deveduar's Stats](https://github-readme-stats.vercel.app/api?username=deveduar&theme=tokyonight&show_icons=true&hide_border=true&count_private=false)
 ![deveduar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=deveduar&theme=tokyonight&hide_border=true)
-<br><br>
+<br>
 <a href="http://www.linkedin.com/in/deveduar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveduar&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" alt="deveduar's Top Languages">
 </a>
