@@ -12,10 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![GitHub top language](https://img.shields.io/github/languages/top/deveduar/nextjs-blog)
 - 📫 You can contact me on [Linkedin](http://www.linkedin.com/in/deveduar) or [Twitter](https://twitter.com/deveduar)
 
 -->
+![banner](https://i.ibb.co/KNhWrpN/banner-deveduar-logo.png)
+
 I'm a Full-Stack web developer, experienced in building applications using technologies like React and Next.js. Additionally, I have programming knowledge in Python, system administration, networking, and project management. 
 I love sharing knowledge and improving every day. 💻
 
