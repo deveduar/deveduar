@@ -172,6 +172,11 @@ I love sharing knowledge and improving every day. 💻
 </picture>
 
 <picture>
+  <source align="center" srcset="https://img.shields.io/badge/vite-1A2C34.svg?style=for-the-badge&logo=vite&logoColor=white" media="(min-width: 640px)">
+  <img src="https://img.shields.io/badge/vite-1A2C34.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Firebase">
+</picture>
+
+<picture>
   <source align="center" srcset="https://img.shields.io/badge/Canva-5C5543.svg?&style=for-the-badge&logo=Canva&logoColor=white" media="(min-width: 640px)">
   <img src="https://img.shields.io/badge/Canva-5C5543.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
 </picture>
