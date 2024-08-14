@@ -33,7 +33,7 @@ I love sharing knowledge and improving every day. 💻
 <br><br>
 
 ### 💬 Contact: 
-[![Linkedin](https://img.shields.io/badge/linkedin-%23483699.svg?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/deveduar)
+[![Linkedin](https://img.shields.io/badge/linkedin-12100E.svg?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/deveduar)
 [![X](https://img.shields.io/badge/X-%23483699.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/deveduar)
 
 
