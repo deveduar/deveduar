@@ -34,7 +34,7 @@ I love sharing knowledge and improving every day. 💻
 
 ### 💬 Contact: 
 [![Linkedin](https://img.shields.io/badge/linkedin-12100E.svg?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/deveduar)
-[![X](https://img.shields.io/badge/X-%23483699.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/deveduar)
+[![X](https://img.shields.io/badge/X-12100E.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/deveduar)
 
 
 
@@ -59,6 +59,12 @@ I love sharing knowledge and improving every day. 💻
   <source align="center" srcset="https://img.shields.io/badge/Next-%23323330?style=for-the-badge&logo=next.js&logoColor=blue" media="(min-width: 640px)">
   <img src="https://img.shields.io/badge/Next-%23323330?style=for-the-badge&logo=next.js&logoColor=blue" alt="Next JS">
 </picture>
+
+<picture>
+  <source align="center" srcset="(https://img.shields.io/badge/angular-%23323330.svg?style=for-the-badge&logo=angular&logoColor=white" media="(min-width: 640px)">
+  <img src="https://img.shields.io/badge/angular-%23323330.svg?style=for-the-badge&logo=angular&logoColor=red" alt="Angular">
+</picture>
+
 
 <picture>
   <source align="center" srcset="https://img.shields.io/badge/tailwindcss-%23323330.svg?style=for-the-badge&logo=tailwind-css&logoColor=blue" media="(min-width: 640px)">
@@ -99,6 +105,11 @@ I love sharing knowledge and improving every day. 💻
 <picture>
   <source align="center" srcset="https://img.shields.io/badge/Adobe%20XD-%23323330?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" media="(min-width: 640px)">
   <img src="https://img.shields.io/badge/Adobe%20XD-%23323330?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD">
+</picture>
+
+<picture>
+  <source align="center" srcset="https://img.shields.io/badge/postgres-1A2C34.svg?style=for-the-badge&logo=postgresql&logoColor=white" media="(min-width: 640px)">
+  <img src="https://img.shields.io/badge/postgres-1A2C34.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
 </picture>
 
 <picture>
@@ -173,8 +184,18 @@ I love sharing knowledge and improving every day. 💻
 </picture>
 
 <picture>
-  <source align="center" srcset="https://img.shields.io/badge/vite-1A2C34.svg?style=for-the-badge&logo=vite&logoColor=white" media="(min-width: 640px)">
-  <img src="https://img.shields.io/badge/vite-1A2C34.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Firebase">
+  <source align="center" srcset="https://img.shields.io/badge/vite-1A2C34.svg?style=for-the-badge&logo=vite&logoColor=violet" media="(min-width: 640px)">
+  <img src="https://img.shields.io/badge/vite-1A2C34.svg?style=for-the-badge&logo=vite&logoColor=violet" alt="vite">
+</picture>
+
+<picture>
+  <source align="center" srcset="https://img.shields.io/badge/Postman-1A2C34?style=for-the-badge&logo=postman&logoColor=orange" media="(min-width: 640px)">
+  <img src="https://img.shields.io/badge/Postman-1A2C34?style=for-the-badge&logo=postman&logoColor=orange" alt="Postman">
+</picture>
+
+<picture>
+  <source align="center" srcset="https://img.shields.io/badge/Supabase-1A2C34?style=for-the-badge&logo=supabase&logoColor=green" media="(min-width: 640px)">
+  <img src="https://img.shields.io/badge/Supabase-1A2C34?style=for-the-badge&logo=supabase&logoColor=green" alt="Supabase">
 </picture>
 
 <picture>
@@ -183,20 +204,24 @@ I love sharing knowledge and improving every day. 💻
 </picture>
 
 <picture>
-  <source align="center" srcset="https://img.shields.io/badge/Adobe%20Photoshop-5C5543?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=ehite" media="(min-width: 640px)">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-5C5543?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=ehite" alt="Adobe Photoshop">
+  <source align="center" srcset="https://img.shields.io/badge/Adobe%20Photoshop-5C5543?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blue" media="(min-width: 640px)">
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-5C5543?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blue" alt="Adobe Photoshop">
 </picture>
 
 <picture>
-  <source align="center" srcset="https://img.shields.io/badge/Adobe%20Premiere%20Pro-5C5543?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" media="(min-width: 640px)">
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-5C5543?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Adobe Premiere Pro">
+  <source align="center" srcset="https://img.shields.io/badge/Adobe%20Premiere%20Pro-5C5543?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=violet" media="(min-width: 640px)">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-5C5543?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=violet" alt="Adobe Premiere Pro">
 </picture>
 
 <picture>
-  <source align="center" srcset="https://img.shields.io/badge/blender-5C5543.svg?style=for-the-badge&logo=blender&logoColor=white" media="(min-width: 640px)">
-  <img src="https://img.shields.io/badge/blender-5C5543.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender">
+  <source align="center" srcset="https://img.shields.io/badge/blender-5C5543.svg?style=for-the-badge&logo=blender&logoColor=orange" media="(min-width: 640px)">
+  <img src="https://img.shields.io/badge/blender-5C5543.svg?style=for-the-badge&logo=blender&logoColor=orange" alt="Blender">
 </picture>
 
+<picture>
+  <source align="center" srcset="https://img.shields.io/badge/affinity%20desginer-5C5543.svg?style=for-the-badge&logo=affinity-designer&logoColor=blue" media="(min-width: 640px)">
+  <img src="https://img.shields.io/badge/affinity%20desginer-5C5543.svg?style=for-the-badge&logo=affinity-designer&logoColor=blue" alt="Affinity Designer">
+</picture>
 
 ### 📊 Stats:
 <picture>
