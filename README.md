@@ -18,15 +18,18 @@ Here are some ideas to get you started:
 <picture> <img align="right" src="https://64.media.tumblr.com/d76f758ab3f8df7a46766c24e510dd8e/1b721de211210cef-27/s1280x1920/108a51dd357fcfa39f9abb37779679140a25d532.gifv" width = 360px></picture>
 -->
 
-### Hi, I'm [@deveduar](https://nextjs-blog-xi-indol.vercel.app/) 👋
+### Hi, I'm [@deveduar](https://deveduar-portfolio.vercel.app/) 👋
 
 I'm a Full-Stack web developer, experienced in building applications using technologies like React and Next.js. Additionally, I have programming knowledge in Python, system administration, networking, and project management. 
 I love sharing knowledge and improving every day. 💻
 
 - 💡 I like to explore new technologies and develop software solutions.
 - 👯 I'm open to any collaboration work and research internships.
-- 🌱 I’m currently learning React and Next.js
-- 🗒 I have recently developed [My personal blog](https://nextjs-blog-xi-indol.vercel.app/)
+- 🌱 I’m currently learning React, Next.js, Agnular.js
+- 🗒 I have recently developed:
+  - [My personal blog](https://nextjs-blog-xi-indol.vercel.app/)
+  - [A Todo app](https://github.com/deveduar/todo-app)
+  - [My portfolio](https://deveduar-portfolio.vercel.app/)
 <br><br>
 
 ### 💬 Contact: 
