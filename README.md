@@ -30,6 +30,7 @@ I love sharing knowledge and improving every day. 💻
   - [My personal blog](https://nextjs-blog-xi-indol.vercel.app/)
   - [A Todo app](https://github.com/deveduar/todo-app)
   - [My portfolio](https://deveduar-portfolio.vercel.app/)
+  - [Inventory system](https://github.com/deveduar/angular-SGI-front.git)
 <br><br>
 
 ### 💬 Contact: 
