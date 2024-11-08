@@ -163,31 +163,35 @@ I'm a Full-Stack Web Developer with expertise in building applications using Jav
   <img src="https://img.shields.io/badge/VSCode-%234D4D4D?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode">
 </picture>
 
-<picture>
-  <source align="center" srcset="https://img.shields.io/badge/markdown-121011.svg?style=for-the-badge&logo=markdown&logoColor=white" media="(min-width: 640px)">
-  <img src="https://img.shields.io/badge/markdown-121011.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-</picture>
+<div style="display:flex; flex-direction:row; gap:1rem;">
+  <picture>
+    <source align="center" srcset="https://img.shields.io/badge/markdown-121011.svg?style=for-the-badge&logo=markdown&logoColor=white" media="(min-width: 640px)">
+    <img src="https://img.shields.io/badge/markdown-121011.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+  </picture>
 
-<picture>
-  <source align="center" srcset="https://img.shields.io/badge/yaml-121011.svg?style=for-the-badge&logo=yaml&logoColor=white" media="(min-width: 640px)">
-  <img src="https://img.shields.io/badge/yaml-121011.svg?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML">
-</picture>
+  <picture>
+    <source align="center" srcset="https://img.shields.io/badge/yaml-121011.svg?style=for-the-badge&logo=yaml&logoColor=white" media="(min-width: 640px)">
+    <img src="https://img.shields.io/badge/yaml-121011.svg?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML">
+  </picture>
 
+  <picture>
+    <source align="center" srcset="https://img.shields.io/badge/Obsidian-121011.svg?style=for-the-badge&logo=obsidian&logoColor=white" media="(min-width: 640px)">
+    <img src="https://img.shields.io/badge/Obsidian-121011.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian">
+  </picture>
 
-<picture>
-  <source align="center" srcset="https://img.shields.io/badge/Obsidian-121011.svg?style=for-the-badge&logo=obsidian&logoColor=white" media="(min-width: 640px)">
-  <img src="https://img.shields.io/badge/Obsidian-121011.svg?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian">
-</picture>
+  <picture>
+    <source align="center" srcset="https://img.shields.io/badge/Notion-121011?style=for-the-badge&logo=notion&logoColor=white" media="(min-width: 640px)">
+    <img src="https://img.shields.io/badge/Notion-121011?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
+  </picture>
 
-<picture>
-  <source align="center" srcset="https://img.shields.io/badge/Notion-121011?style=for-the-badge&logo=notion&logoColor=white" media="(min-width: 640px)">
-  <img src="https://img.shields.io/badge/Notion-121011?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
-</picture>
+  <picture>
+    <source align="center" srcset="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" media="(min-width: 640px)">
+    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </picture>
 
-<picture>
-  <source align="center" srcset="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" media="(min-width: 640px)">
-  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</picture>
+</div>
+
+<div style="display:flex; flex-direction:row; gap:1rem;">
 
 <picture>
   <source align="center" srcset="https://img.shields.io/badge/Vercel-1A2C34.svg?style=for-the-badge&logo=vercel&logoColor=white" media="(min-width: 640px)">
@@ -214,33 +218,35 @@ I'm a Full-Stack Web Developer with expertise in building applications using Jav
   <img src="https://img.shields.io/badge/Supabase-1A2C34?style=for-the-badge&logo=supabase&logoColor=green" alt="Supabase">
 </picture>
 
+</div>
+
 <div style="display:flex; flex-direction:row; gap:1rem;">
-<picture>
-  <source align="center" srcset="https://img.shields.io/badge/Adobe%20XD-%23323330?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" media="(min-width: 640px)">
-  <img src="https://img.shields.io/badge/Adobe%20XD-%23323330?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD">
-</picture>
+  <picture>
+    <source align="center" srcset="https://img.shields.io/badge/Adobe%20XD-%23323330?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" media="(min-width: 640px)">
+    <img src="https://img.shields.io/badge/Adobe%20XD-%23323330?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD">
+  </picture>
 
-<picture>
-  <source align="center" srcset="https://img.shields.io/badge/Canva-5C5543.svg?&style=for-the-badge&logo=Canva&logoColor=white" media="(min-width: 640px)">
-  <img src="https://img.shields.io/badge/Canva-5C5543.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
-</picture>
+  <picture>
+    <source align="center" srcset="https://img.shields.io/badge/Canva-5C5543.svg?&style=for-the-badge&logo=Canva&logoColor=white" media="(min-width: 640px)">
+    <img src="https://img.shields.io/badge/Canva-5C5543.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
+  </picture>
 
-<picture>
-  <source align="center" srcset="https://img.shields.io/badge/Adobe%20Photoshop-5C5543?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blue" media="(min-width: 640px)">
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-5C5543?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blue" alt="Adobe Photoshop">
-</picture>
+  <picture>
+    <source align="center" srcset="https://img.shields.io/badge/Adobe%20Photoshop-5C5543?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blue" media="(min-width: 640px)">
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-5C5543?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=blue" alt="Adobe Photoshop">
+  </picture>
 
-<picture>
-  <source align="center" srcset="https://img.shields.io/badge/Adobe%20Premiere%20Pro-5C5543?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=violet" media="(min-width: 640px)">
-  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-5C5543?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=violet" alt="Adobe Premiere Pro">
-</picture>
+  <picture>
+    <source align="center" srcset="https://img.shields.io/badge/Adobe%20Premiere%20Pro-5C5543?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=violet" media="(min-width: 640px)">
+    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-5C5543?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=violet" alt="Adobe Premiere Pro">
+  </picture>
 
-<picture>
-  <source align="center" srcset="https://img.shields.io/badge/blender-5C5543.svg?style=for-the-badge&logo=blender&logoColor=orange" media="(min-width: 640px)">
-  <img src="https://img.shields.io/badge/blender-5C5543.svg?style=for-the-badge&logo=blender&logoColor=orange" alt="Blender">
-</picture>
+  <picture>
+    <source align="center" srcset="https://img.shields.io/badge/blender-5C5543.svg?style=for-the-badge&logo=blender&logoColor=orange" media="(min-width: 640px)">
+    <img src="https://img.shields.io/badge/blender-5C5543.svg?style=for-the-badge&logo=blender&logoColor=orange" alt="Blender">
+  </picture>
 
-<picture>
+  <picture>
   <source align="center" srcset="https://img.shields.io/badge/affinity%20desginer-5C5543.svg?style=for-the-badge&logo=affinity-designer&logoColor=blue" media="(min-width: 640px)">
   <img src="https://img.shields.io/badge/affinity%20desginer-5C5543.svg?style=for-the-badge&logo=affinity-designer&logoColor=blue" alt="Affinity Designer">
 </picture>
