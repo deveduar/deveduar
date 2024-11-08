@@ -30,7 +30,7 @@ I'm a Full-Stack Web Developer with expertise in building applications using Jav
 </div>
 
 ✨ About Me
-- 🌐 [Explore My Work](https://deveduar-portfolio.vercel.app/): Dive into my projects, see my latest achievements, and get to know my journey.
+- 🌐 [Check out my portfolio](https://deveduar-portfolio.vercel.app/)
 - 💡 Always exploring new technologies and creating software solutions.
 - 👯 Open to collaborations and research internships.
 - 🌱 Currently learning C++ to expand my toolkit.
