@@ -26,7 +26,6 @@ I'm a Full-Stack Web Developer with expertise in building applications using Jav
 <div style="display:flex; flex-direction:row; gap:1rem; align-text:center;">
 
 [![Linkedin](https://img.shields.io/badge/linkedin-12100E.svg?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/deveduar)
-
 [![X](https://img.shields.io/badge/X-12100E.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/deveduar)
 
 </div>
