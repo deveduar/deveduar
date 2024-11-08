@@ -59,6 +59,16 @@ I'm a Full-Stack Web Developer with expertise in building applications using Jav
   <img src="https://img.shields.io/badge/python-%23323330?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
 </picture>
 
+<picture>
+  <source align="center" srcset="https://img.shields.io/badge/php-%23323330.svg?style=for-the-badge&logo=php&logoColor=white" media="(min-width: 640px)">
+  <img src="https://img.shields.io/badge/php-%23323330.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+</picture>
+
+<picture>
+  <source align="center" srcset="https://img.shields.io/badge/HTML5-%23323330?style=for-the-badge&logo=html5&logoColor=yellow" media="(min-width: 640px)">
+  <img src="https://img.shields.io/badge/HTML5-%23323330?style=for-the-badge&logo=html5&logoColor=yellow" alt="HTML5">
+</picture>
+
 </div>
 
 <div style="display:flex; flex-direction:row; gap:1rem;">
@@ -97,10 +107,7 @@ I'm a Full-Stack Web Developer with expertise in building applications using Jav
 
 
 
-<picture>
-  <source align="center" srcset="https://img.shields.io/badge/php-%23323330.svg?style=for-the-badge&logo=php&logoColor=white" media="(min-width: 640px)">
-  <img src="https://img.shields.io/badge/php-%23323330.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
-</picture>
+
 
 <picture>
   <source align="center" srcset="https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=blue" media="(min-width: 640px)">
@@ -112,15 +119,9 @@ I'm a Full-Stack Web Developer with expertise in building applications using Jav
   <img src="https://img.shields.io/badge/django-%23323330.svg?style=for-the-badge&logo=django&logoColor=green" alt="Django">
 </picture>
 
-<picture>
-  <source align="center" srcset="https://img.shields.io/badge/HTML5-%23323330?style=for-the-badge&logo=html5&logoColor=yellow" media="(min-width: 640px)">
-  <img src="https://img.shields.io/badge/HTML5-%23323330?style=for-the-badge&logo=html5&logoColor=yellow" alt="HTML5">
-</picture>
 
-<picture>
-  <source align="center" srcset="https://img.shields.io/badge/Adobe%20XD-%23323330?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" media="(min-width: 640px)">
-  <img src="https://img.shields.io/badge/Adobe%20XD-%23323330?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD">
-</picture>
+
+
 
 <picture>
   <source align="center" srcset="https://img.shields.io/badge/postgres-1A2C34.svg?style=for-the-badge&logo=postgresql&logoColor=white" media="(min-width: 640px)">
@@ -213,6 +214,12 @@ I'm a Full-Stack Web Developer with expertise in building applications using Jav
   <img src="https://img.shields.io/badge/Supabase-1A2C34?style=for-the-badge&logo=supabase&logoColor=green" alt="Supabase">
 </picture>
 
+<div style="display:flex; flex-direction:row; gap:1rem;">
+<picture>
+  <source align="center" srcset="https://img.shields.io/badge/Adobe%20XD-%23323330?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" media="(min-width: 640px)">
+  <img src="https://img.shields.io/badge/Adobe%20XD-%23323330?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD">
+</picture>
+
 <picture>
   <source align="center" srcset="https://img.shields.io/badge/Canva-5C5543.svg?&style=for-the-badge&logo=Canva&logoColor=white" media="(min-width: 640px)">
   <img src="https://img.shields.io/badge/Canva-5C5543.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
@@ -237,6 +244,8 @@ I'm a Full-Stack Web Developer with expertise in building applications using Jav
   <source align="center" srcset="https://img.shields.io/badge/affinity%20desginer-5C5543.svg?style=for-the-badge&logo=affinity-designer&logoColor=blue" media="(min-width: 640px)">
   <img src="https://img.shields.io/badge/affinity%20desginer-5C5543.svg?style=for-the-badge&logo=affinity-designer&logoColor=blue" alt="Affinity Designer">
 </picture>
+
+</div>
 
 ### 📊 Stats:
 <picture>
