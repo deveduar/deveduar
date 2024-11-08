@@ -20,17 +20,22 @@ Here are some ideas to get you started:
 
 ### Hi, I'm [@deveduar](https://deveduar-portfolio.vercel.app/) 👋
 
-I'm a Full-Stack web developer, experienced in building applications using technologies like React and Next.js. Additionally, I have programming knowledge in Python, system administration, networking, and project management. 
-I love sharing knowledge and improving every day. 💻
-- [My portfolio](https://deveduar-portfolio.vercel.app/)
-- 💡 I like to explore new technologies and develop software solutions.
-- 👯 I'm open to any collaboration work and research internships.
-- 🌱 I’m currently learning C++
-- 🗒 I have recently developed:
-  - [My personal blog](https://nextjs-blog-xi-indol.vercel.app/)
-  - [A Todo app](https://github.com/deveduar/todo-app)
-  - [Inventory system](https://github.com/deveduar/angular-SGI-front.git)
-  - [some python tools]()
+I'm a Full-Stack Web Developer with expertise in building applications using JavaScript, PHP and Node.js. I also bring solid programming knowledge in Python, along with skills in system administration, networking, and project management. Passionate about sharing knowledge and continuous improvement. 💻
+
+🌐 Explore My Work
+- [My portfolio](https://deveduar-portfolio.vercel.app/): Dive into my projects, see my latest achievements, and get to know my journey.
+
+✨ About Me
+- 💡 Always exploring new technologies and creating software solutions.
+- 👯 Open to collaborations and research internships.
+- 🌱 Currently learning C++ to expand my toolkit.
+
+🛠️ Recent Projects
+- [Personal blog](https://nextjs-blog-xi-indol.vercel.app/): Sharing insights, tutorials, and more.
+- [Todo app](https://github.com/deveduar/todo-app): A practical, feature-rich task management tool.
+- [Inventory system](https://github.com/deveduar/angular-SGI-front.git): Built with Angular to streamline inventory management.
+- [some python tools](https://deveduar-portfolio.vercel.app/projects/5): Handy scripts and utilities I've created in Python.
+
 <br><br>
 
 ### 💬 Contact: 
