@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 I'm a Full-Stack Web Developer with expertise in building applications using JavaScript, PHP and Node.js. I also bring solid programming knowledge in Python, along with skills in system administration, networking, and project management. Passionate about sharing knowledge and continuous improvement. 💻
 
 💬 Contact: 
-<div style="display:flex; flex-direction:row; gap:1rem;">
+<div style="display:flex; flex-direction:row; gap:1rem; align-text:center;">
 
 [![Linkedin](https://img.shields.io/badge/linkedin-12100E.svg?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/deveduar)
 
