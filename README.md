@@ -36,9 +36,7 @@ I'm a Full-Stack Web Developer with expertise in building applications using Jav
 - [Inventory system](https://github.com/deveduar/angular-SGI-front.git): Built with Angular to streamline inventory management.
 - [some python tools](https://deveduar-portfolio.vercel.app/projects/5): Handy scripts and utilities I've created in Python.
 
-<br><br>
-
-### 💬 Contact: 
+💬 Contact: 
 [![Linkedin](https://img.shields.io/badge/linkedin-12100E.svg?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/deveduar)
 [![X](https://img.shields.io/badge/X-12100E.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/deveduar)
 
