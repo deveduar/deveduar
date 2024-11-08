@@ -22,15 +22,15 @@ Here are some ideas to get you started:
 
 I'm a Full-Stack web developer, experienced in building applications using technologies like React and Next.js. Additionally, I have programming knowledge in Python, system administration, networking, and project management. 
 I love sharing knowledge and improving every day. 💻
-
+- [My portfolio](https://deveduar-portfolio.vercel.app/)
 - 💡 I like to explore new technologies and develop software solutions.
 - 👯 I'm open to any collaboration work and research internships.
 - 🌱 I’m currently learning C++
 - 🗒 I have recently developed:
   - [My personal blog](https://nextjs-blog-xi-indol.vercel.app/)
   - [A Todo app](https://github.com/deveduar/todo-app)
-  - [My portfolio](https://deveduar-portfolio.vercel.app/)
   - [Inventory system](https://github.com/deveduar/angular-SGI-front.git)
+  - [some python tools]()
 <br><br>
 
 ### 💬 Contact: 
