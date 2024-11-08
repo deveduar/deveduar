@@ -22,6 +22,16 @@ Here are some ideas to get you started:
 
 I'm a Full-Stack Web Developer with expertise in building applications using JavaScript, PHP and Node.js. I also bring solid programming knowledge in Python, along with skills in system administration, networking, and project management. Passionate about sharing knowledge and continuous improvement. 💻
 
+💬 Contact: 
+<div style="display:flex; flex-direction:row; gap:1rem;">
+
+[![Linkedin](https://img.shields.io/badge/linkedin-12100E.svg?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/deveduar)
+
+[![X](https://img.shields.io/badge/X-12100E.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/deveduar)
+
+</div>
+
+
 🌐 Explore My Work
 - [My portfolio](https://deveduar-portfolio.vercel.app/): Dive into my projects, see my latest achievements, and get to know my journey.
 
@@ -36,11 +46,9 @@ I'm a Full-Stack Web Developer with expertise in building applications using Jav
 - [Inventory system](https://github.com/deveduar/angular-SGI-front.git): Built with Angular to streamline inventory management.
 - [some python tools](https://deveduar-portfolio.vercel.app/projects/5): Handy scripts and utilities I've created in Python.
 
-💬 Contact: 
-[![Linkedin](https://img.shields.io/badge/linkedin-12100E.svg?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/deveduar)
-[![X](https://img.shields.io/badge/X-12100E.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/deveduar)
+🛠 Tech Stack: 
 
-### 🛠 Tech Stack: 
+<div style="display:flex; flex-direction:row; gap:1rem;">
 
 <picture>
   <source align="center" srcset="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" media="(min-width: 640px)">
@@ -52,6 +60,9 @@ I'm a Full-Stack Web Developer with expertise in building applications using Jav
   <img src="https://img.shields.io/badge/python-%23323330?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
 </picture>
 
+</div>
+
+<div style="display:flex; flex-direction:row; gap:1rem;">
 <picture>
   <source align="center" srcset="https://img.shields.io/badge/React-%23323330?style=for-the-badge&logo=react&logoColor=61DAFB" media="(min-width: 640px)">
   <img src="https://img.shields.io/badge/React-%23323330?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
@@ -67,7 +78,6 @@ I'm a Full-Stack Web Developer with expertise in building applications using Jav
   <img src="https://img.shields.io/badge/angular-%23323330.svg?style=for-the-badge&logo=angular&logoColor=red" alt="Angular">
 </picture>
 
-
 <picture>
   <source align="center" srcset="https://img.shields.io/badge/tailwindcss-%23323330.svg?style=for-the-badge&logo=tailwind-css&logoColor=blue" media="(min-width: 640px)">
   <img src="https://img.shields.io/badge/tailwindcss-%23323330.svg?style=for-the-badge&logo=tailwind-css&logoColor=blue" alt="TailwindCSS">
@@ -82,6 +92,10 @@ I'm a Full-Stack Web Developer with expertise in building applications using Jav
   <source align="center" srcset="https://img.shields.io/badge/node.js-%23323330?style=for-the-badge&logo=node.js&logoColor=green" media="(min-width: 640px)">
   <img src="https://img.shields.io/badge/node.js-%23323330?style=for-the-badge&logo=node.js&logoColor=green" alt="NodeJS">
 </picture>
+
+</div>
+
+
 
 
 <picture>
