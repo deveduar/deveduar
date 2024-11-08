@@ -47,7 +47,7 @@ I'm a Full-Stack Web Developer with expertise in building applications using Jav
 
 🛠 Tech Stack: 
 
-<div style="display:flex; flex-direction:column; gap:1rem;">
+<div style="display:flex; flex-direction:column; gap:1rem; margin-bottom:1rem;">
 
 <div style="display:flex; flex-direction:row; gap:1rem;">
 
