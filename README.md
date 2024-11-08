@@ -22,11 +22,6 @@ Here are some ideas to get you started:
 
 I'm a Full-Stack Web Developer with expertise in building applications using JavaScript, PHP and Node.js. I also bring solid programming knowledge in Python, along with skills in system administration, networking, and project management. Passionate about sharing knowledge and continuous improvement. 💻
 
-- 🌐 [Explore My Work](https://deveduar-portfolio.vercel.app/): Dive into my projects, see my latest achievements, and get to know my journey.
-- 💡 Always exploring new technologies and creating software solutions.
-- 👯 Open to collaborations and research internships.
-- 🌱 Currently learning C++ to expand my toolkit.
-
 <div style="display:flex; flex-direction:row; gap:1rem; align-text:center;">
 
 [![Linkedin](https://img.shields.io/badge/linkedin-12100E.svg?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/deveduar)
@@ -34,6 +29,11 @@ I'm a Full-Stack Web Developer with expertise in building applications using Jav
 
 </div>
 
+✨ About Me
+- 🌐 [Explore My Work](https://deveduar-portfolio.vercel.app/): Dive into my projects, see my latest achievements, and get to know my journey.
+- 💡 Always exploring new technologies and creating software solutions.
+- 👯 Open to collaborations and research internships.
+- 🌱 Currently learning C++ to expand my toolkit.
 
 🛠️ Recent Projects
 - [Personal blog](https://nextjs-blog-xi-indol.vercel.app/): Sharing insights, tutorials, and more.
