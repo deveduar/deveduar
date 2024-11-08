@@ -25,7 +25,7 @@ I love sharing knowledge and improving every day. 💻
 
 - 💡 I like to explore new technologies and develop software solutions.
 - 👯 I'm open to any collaboration work and research internships.
-- 🌱 I’m currently learning React, Next.js, Agnular.js
+- 🌱 I’m currently learning C++
 - 🗒 I have recently developed:
   - [My personal blog](https://nextjs-blog-xi-indol.vercel.app/)
   - [A Todo app](https://github.com/deveduar/todo-app)
@@ -36,8 +36,6 @@ I love sharing knowledge and improving every day. 💻
 ### 💬 Contact: 
 [![Linkedin](https://img.shields.io/badge/linkedin-12100E.svg?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/deveduar)
 [![X](https://img.shields.io/badge/X-12100E.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/deveduar)
-
-
 
 ### 🛠 Tech Stack: 
 
