@@ -47,8 +47,6 @@ I'm a Full-Stack Web Developer with expertise in building applications using Jav
 
 🛠 Tech Stack: 
 
-<div style="display:flex; flex-direction:column; gap:1rem; margin-bottom:1rem;">
-
 <div style="display:flex; flex-direction:row; gap:1rem;">
 
 <picture>
@@ -249,7 +247,7 @@ I'm a Full-Stack Web Developer with expertise in building applications using Jav
 </picture>
 
 </div>
-</div>
+
 ### 📊 Stats:
 <picture>
   <source align="center" srcset="https://github-readme-stats.vercel.app/api?username=deveduar&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" media="(min-width: 640px)">
