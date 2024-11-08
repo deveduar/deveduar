@@ -227,10 +227,6 @@ I love sharing knowledge and improving every day. 💻
   <source align="center" srcset="https://github-readme-stats.vercel.app/api?username=deveduar&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" media="(min-width: 640px)">
   <img  src="https://github-readme-stats.vercel.app/api?username=deveduar&theme=tokyonight&show_icons=true&hide_border=true&count_private=false" alt="deveduar's Top Languages">
 </picture>
-<picture>
-  <source align="center" srcset="https://github-readme-streak-stats.herokuapp.com/?user=deveduar&theme=tokyonight&hide_border=true" media="(min-width: 640px)">
-  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=deveduar&theme=tokyonight&hide_border=true" alt="deveduar's Top Languages">
-</picture>
 <br>
 <picture>
   <source align="center" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=deveduar&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" media="(min-width: 640px)">
