@@ -68,7 +68,10 @@ I'm a Full-Stack Web Developer with expertise in building applications using Jav
   <source align="center" srcset="https://img.shields.io/badge/HTML5-%23323330?style=for-the-badge&logo=html5&logoColor=yellow" media="(min-width: 640px)">
   <img src="https://img.shields.io/badge/HTML5-%23323330?style=for-the-badge&logo=html5&logoColor=yellow" alt="HTML5">
 </picture>
-
+<picture>
+  <source align="center" srcset="https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=blue" media="(min-width: 640px)">
+  <img src="https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS3">
+</picture>
 </div>
 
 <div style="display:flex; flex-direction:row; gap:1rem;">
@@ -101,28 +104,13 @@ I'm a Full-Stack Web Developer with expertise in building applications using Jav
   <source align="center" srcset="https://img.shields.io/badge/node.js-%23323330?style=for-the-badge&logo=node.js&logoColor=green" media="(min-width: 640px)">
   <img src="https://img.shields.io/badge/node.js-%23323330?style=for-the-badge&logo=node.js&logoColor=green" alt="NodeJS">
 </picture>
-
-</div>
-
-
-
-
-
-
-<picture>
-  <source align="center" srcset="https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=blue" media="(min-width: 640px)">
-  <img src="https://img.shields.io/badge/css3-%23323330.svg?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS3">
-</picture>
-
 <picture>
   <source align="center" srcset="https://img.shields.io/badge/django-%23323330.svg?style=for-the-badge&logo=django&logoColor=green" media="(min-width: 640px)">
   <img src="https://img.shields.io/badge/django-%23323330.svg?style=for-the-badge&logo=django&logoColor=green" alt="Django">
 </picture>
+</div>
 
-
-
-
-
+<div style="display:flex; flex-direction:row; gap:1rem;">
 <picture>
   <source align="center" srcset="https://img.shields.io/badge/postgres-1A2C34.svg?style=for-the-badge&logo=postgresql&logoColor=white" media="(min-width: 640px)">
   <img src="https://img.shields.io/badge/postgres-1A2C34.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
@@ -147,6 +135,9 @@ I'm a Full-Stack Web Developer with expertise in building applications using Jav
   <source align="center" srcset="https://img.shields.io/badge/GoogleCloud-1A2C34.svg?style=for-the-badge&logo=google-cloud&logoColor=white" media="(min-width: 640px)">
   <img src="https://img.shields.io/badge/GoogleCloud-1A2C34.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
 </picture>
+</div>
+
+<div style="display:flex; flex-direction:row; gap:1rem;">
 
 <picture>
   <source align="center" srcset="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" media="(min-width: 640px)">
@@ -162,6 +153,7 @@ I'm a Full-Stack Web Developer with expertise in building applications using Jav
   <source align="center" srcset="https://img.shields.io/badge/VSCode-%234D4D4D?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" media="(min-width: 640px)">
   <img src="https://img.shields.io/badge/VSCode-%234D4D4D?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode">
 </picture>
+</div>
 
 <div style="display:flex; flex-direction:row; gap:1rem;">
   <picture>
