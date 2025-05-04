@@ -35,12 +35,6 @@ I'm a Full-Stack Web Developer with expertise in building applications using Jav
 - 👯 Open to collaborations and research internships.
 - 🌱 Currently learning C++ to expand my toolkit.
 
-🛠️ Recent Projects
-- [Personal blog](https://nextjs-blog-xi-indol.vercel.app/): Sharing insights, tutorials, and more.
-- [Todo app](https://github.com/deveduar/todo-app): A practical, feature-rich task management tool.
-- [Inventory system](https://github.com/deveduar/angular-SGI-front.git): Built with Angular to streamline inventory management.
-- [some python tools](https://deveduar-portfolio.vercel.app/projects/5): Handy scripts and utilities I've created in Python.
-
 🛠 Tech Stack: 
 
 <div style="display:flex; flex-direction:row; gap:1rem;">
