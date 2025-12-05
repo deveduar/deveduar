@@ -3,8 +3,8 @@
 █  █▀▄  ██▀██ ██▄▄  ██▄██ ██▄▄  ██▀██ ██ ██ ██▀██ ██▄█▄ 
 █▄ ▀▀ █ ████▀ ██▄▄▄  ▀█▀  ██▄▄▄ ████▀ ▀███▀ ██▀██ ██ ██ 
  ▀▀▀▀▀
-║ 💻 JS ║ ⚡ TS ║ ⚛ React ║ ⬛ Next ║ ║ 🐍 Py ║ C# ║ .NET ║ 🐚 Bash ║ ║ 🐧 Linux ║
-║ 🐳 Docker ║ 🌐 Nginx ║ 🔧 Git ║ ║ 🗄️ PG ║ 🍃 Mongo ║ 🎮 Godot ║ C# ║
+║ 💻 JS ║ ⚡ TS ║ ⚛ React/Angular/Vue ║ ⬛ Next ║ ║ 🐍 Py ║ C# ║ .NET ║ 🐚 Bash ║ ║ 🐧 Linux ║
+║ 🐳 Docker ║ 🌐 Nginx ║ 🔧 Git ║ ║ 🗄️ PG ║ 🍃 Mongo ║ 🎮 Godot ║
 ```                                                                     
 Me dedico al desarrollo de software, automatización de sistemas y desarrollo de utilidades. En mi GitHub puedes encontrar herramientas, apps y scripts que he creado y mantenido; desde utilidades de red hasta proyectos full-stack, automatización y más. Me adapto a distintas tecnologías y busco siempre mejorar con código útil y práctico.
 
