@@ -8,7 +8,7 @@
 ```                                                                     
 I focus on software development, systems automation, and utility development. On my GitHub, you can find tools, apps, and scripts that I’ve created and maintained — from network utilities to full-stack projects, automation, and more. I adapt to different technologies and always aim to improve with useful, practical code. [Check out my portfolio](https://deveduar-portfolio.vercel.app/)
 
-### ¿Qué puedes encontrar en mi GitHub?           
+### What can you find on my GitHub?         
 -  Tools and utilities (scripts, converters, automation)
 - Full-stack web projects (frontend + backend) 
 - Apps with databases & APIs 
